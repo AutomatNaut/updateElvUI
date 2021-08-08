@@ -2,4 +2,4 @@
 
 Python script to auto update ElvUI.  
 
-can be then scheulded in Windows via Batch file
+Can be then scheulded in Windows Scheduler via Batch file (https://www.windowscentral.com/how-create-automated-task-using-task-scheduler-windows-10)

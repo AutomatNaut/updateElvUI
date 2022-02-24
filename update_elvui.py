@@ -7,7 +7,7 @@ import os
 addonFolder = 'C:\\World of Warcraft\\_retail_\\Interface\\AddOns\\'
 elvUIURL = "https://www.tukui.org/download.php?ui=elvui"
 
-with open(addonFolder + 'ElvUI\\ElvUI-Mainline.toc', 'r') as reader:
+with open(addonFolder + 'ElvUI\\ElvUI_Mainline.toc', 'r') as reader:
     line = reader.readline()
     while line != '':  # The EOF char is an empty string
         if "Version: " in line: 
